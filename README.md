@@ -8,7 +8,7 @@ Building steps (after creating the build environment):
 
 0. `curl https://storage.googleapis.com/git-repo-downloads/repo > .bin/repo`
 
-`1. `repo init -u git://github.com/LineageOS/android.git -b lineage-15.1`
+1. `repo init -u git://github.com/LineageOS/android.git -b lineage-15.1`
 
 2. `curl https://raw.githubusercontent.com/szazs89/device_lenovo_TB3_710F/master/roomservice.xml  \
     >.repo/local_manifests/roomservice.xml`
